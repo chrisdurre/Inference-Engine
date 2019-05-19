@@ -29,6 +29,8 @@ public:
 
     void initialize();
 
+    void solve();
+
 private:
     QStringList knowledgeBase;
     QStringList variables;
